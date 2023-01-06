@@ -3,7 +3,7 @@
 This is the sample application for the
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
-by [Michael Hartl](https://www.michaelhartl.com/).
+by [Nicholas Sturm].
 
 See also the [6th edition README](https://github.com/learnenough/sample_app_6th_ed#readme).
 
@@ -139,6 +139,4 @@ $ git checkout sign-up
 
 ## Help with the Rails Tutoiral
 
-Experience shows that comparing code with the reference app is often helpful for debugging errors and tracking down discrepancies. For additional assistance with any issues in the tutorial, please consult the [Rails Tutorial Help page](https://github.com/learnenough/rails_tutorial_sample_app_7th_ed/blob/main/HELP.md).
-
-Suspected errors, typos, and bugs can be emailed to <michael@learnenough.com>. All such reports are gratefully received, but please double-check with the [online version of the tutorial](https://www.railstutorial.org/book) and this reference app before submitting.
+Experience shows that comparing code with the reference app is often helpful for debugging errors and tracking down discrepancies. Suspected errors, typos, and bugs can be emailed to <nsturm327@gmail.com>. All such reports are gratefully received, but please double-check with the [online version of the tutorial](https://www.railstutorial.org/book) and this reference app before submitting.
